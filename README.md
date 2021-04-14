@@ -7,7 +7,7 @@ on the AVA dataset.
 
 ## Prerequisites
 - Numpy
-- Pandas 
+- Pandas > 1.2.3
 - Matplotlib
 
 Make sure you have downloaded annotation data from the [official cite](https://research.google.com/ava/download.html)
